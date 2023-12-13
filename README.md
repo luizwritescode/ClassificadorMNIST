@@ -1,6 +1,6 @@
 # Classificação de digitos usando Redes Convolucionais e o dataset MNIST.
 
-Rode o código no [Google Collab](colab.research.google.com/drive/1QtcMR7E9p11DZEYILknSOnw2DfQso0dS)
+Rode o código no [Google Collab](http://colab.research.google.com/drive/1QtcMR7E9p11DZEYILknSOnw2DfQso0dS)
 
 O objetivo deste desafio foi desenvolver um classificador básico para o conjunto de dados MNIST usando uma Convolutional Neural Network (CNN). Este relatório aborda as escolhas e decisões feitas durante o processo de implementação.
 
